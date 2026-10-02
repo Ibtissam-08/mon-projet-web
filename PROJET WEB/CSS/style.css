@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Space+Grotesk:wght@300..700&display=swap');
+
+
+body {
+	background-color: #F7F2EE ;
+}
+
+.paragraphs {
+	color:#2B1712;
+	font-family: "Space Grotesk", "Arial", sans-serif;
+}
+
+.titles {
+	font-weight: bold;
+	font-family: "Righteous", "Impact", sans-serif;
+	color: #801113;
+}
+
+.buttons {
+	color: white;
+	background-color: #940A0A;
+	border: 1px solid #940A0A;
+	border-radius: 10px;
+	display: inline;
+	font-family: "Space Grotesk", "Arial", sans-serif;
+}
+
+.buttons:hover{
+	color: #FF8080;
+}
+
+.frames {
+	border: 1px solid #e6dbd5;
+	border-radius: 5px;
+	display: inline;
+}
